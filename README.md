@@ -87,7 +87,9 @@ My coursework solutions are kept private in accordance with CS50's academic hone
 
 I'm always open to connecting with fellow developers, students, and technology enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aayushman-singh-thakur-aa3b5a439)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushman-singh-thakur-aa3b5a439/)
+
 
 I enjoy meeting people who are passionate about technology, programming, and building interesting things.
 
